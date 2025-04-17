@@ -197,9 +197,8 @@ If you use this system in your research, please cite:
 - Dataset providers and research partners
 
 ## Contact
-- Email: your.email@domain.com
-- Project Link: https://github.com/yourusername/cyberbullying-detection
-- Documentation: https://cyberbullying-detection.readthedocs.io/
+- Project Link: https://github.com/Rishika0812/Cyberbully-Detection-Using-Agentic-LLMsssssssssssssss
+- Documentation: https://docs.google.com/document/d/1aEr2ReshpTUukRkCKx-svYuupCArVNQNVVZFUDsFxYs/edit?tab=t.0
 
 ## Roadmap
 - [ ] Add support for more languages
