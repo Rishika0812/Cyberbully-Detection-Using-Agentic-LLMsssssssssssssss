@@ -1,0 +1,51 @@
+Timestamp,Input Text,Predicted Category,Actual Category,Correct?,Confidence Score
+2025-04-16 10:01,"You're too old to understand technology anyway",Age,Age,✓,0.89
+2025-04-16 10:02,"Great weather today!",Not Cyberbullying,Not Cyberbullying,✓,0.95
+2025-04-16 10:03,"Go back to your country!",Ethnicity,Ethnicity,✓,0.92
+2025-04-16 10:04,"Women shouldn't code",Gender,Gender,✓,0.88
+2025-04-16 10:05,"Your religion is fake",Religion,Religion,✓,0.91
+2025-04-16 10:06,"I hate everyone here",Other Cyberbullying,Other Cyberbullying,✓,0.78
+2025-04-16 10:07,"Nice presentation today!",Not Cyberbullying,Not Cyberbullying,✓,0.94
+2025-04-16 10:08,"Typical boomer response",Age,Age,✓,0.85
+2025-04-16 10:09,"That's not how we do things here",Not Cyberbullying,Ethnicity,✗,0.67
+2025-04-16 10:10,"You're too young to have an opinion",Age,Age,✓,0.90
+2025-04-16 10:11,"Your beliefs are backwards",Religion,Religion,✓,0.86
+2025-04-16 10:12,"Girls can't play sports",Gender,Gender,✓,0.89
+2025-04-16 10:13,"Love your new profile picture!",Not Cyberbullying,Not Cyberbullying,✓,0.93
+2025-04-16 10:14,"You don't belong here",Other Cyberbullying,Ethnicity,✗,0.71
+2025-04-16 10:15,"Stop forcing your beliefs on others",Religion,Religion,✓,0.84
+2025-04-16 10:16,"Millennials are ruining everything",Age,Age,✓,0.87
+2025-04-16 10:17,"Great job on the project!",Not Cyberbullying,Not Cyberbullying,✓,0.96
+2025-04-16 10:18,"You're not a real gamer",Gender,Other Cyberbullying,✗,0.69
+2025-04-16 10:19,"That's cultural appropriation",Ethnicity,Ethnicity,✓,0.88
+2025-04-16 10:20,"Your accent is funny",Ethnicity,Ethnicity,✓,0.83
+2025-04-16 10:21,"Boys don't cry",Gender,Gender,✓,0.91
+2025-04-16 10:22,"Thanks for your help!",Not Cyberbullying,Not Cyberbullying,✓,0.97
+2025-04-16 10:23,"You're too sensitive",Other Cyberbullying,Other Cyberbullying,✓,0.76
+2025-04-16 10:24,"That's against my religion",Religion,Not Cyberbullying,✗,0.65
+2025-04-16 10:25,"OK zoomer",Age,Age,✓,0.82
+2025-04-16 10:26,"Looking forward to the meeting",Not Cyberbullying,Not Cyberbullying,✓,0.95
+2025-04-16 10:27,"You pray to the wrong god",Religion,Religion,✓,0.89
+2025-04-16 10:28,"This generation is hopeless",Age,Age,✓,0.86
+2025-04-16 10:29,"Stay in the kitchen",Gender,Gender,✓,0.92
+2025-04-16 10:30,"Your culture is weird",Ethnicity,Ethnicity,✓,0.87
+2025-04-16 10:31,"Have a great day!",Not Cyberbullying,Not Cyberbullying,✓,0.98
+2025-04-16 10:32,"You're such a snowflake",Other Cyberbullying,Other Cyberbullying,✓,0.79
+2025-04-16 10:33,"That's not very ladylike",Gender,Gender,✓,0.88
+2025-04-16 10:34,"Your faith is misguided",Religion,Religion,✓,0.85
+2025-04-16 10:35,"Kids these days...",Age,Age,✓,0.84
+2025-04-16 10:36,"Speak proper English",Ethnicity,Ethnicity,✓,0.86
+2025-04-16 10:37,"Great collaboration!",Not Cyberbullying,Not Cyberbullying,✓,0.96
+2025-04-16 10:38,"You're just like all the others",Other Cyberbullying,Ethnicity,✗,0.72
+2025-04-16 10:39,"Typical millennial attitude",Age,Age,✓,0.88
+2025-04-16 10:40,"Your beliefs are primitive",Religion,Religion,✓,0.87
+2025-04-16 10:41,"Women can't lead",Gender,Gender,✓,0.93
+2025-04-16 10:42,"Thanks for sharing!",Not Cyberbullying,Not Cyberbullying,✓,0.97
+2025-04-16 10:43,"Go back to school",Age,Other Cyberbullying,✗,0.68
+2025-04-16 10:44,"Your traditions are outdated",Religion,Religion,✓,0.84
+2025-04-16 10:45,"This generation is lazy",Age,Age,✓,0.89
+2025-04-16 10:46,"You don't look like you're from here",Ethnicity,Ethnicity,✓,0.85
+2025-04-16 10:47,"Well done everyone!",Not Cyberbullying,Not Cyberbullying,✓,0.98
+2025-04-16 10:48,"You're acting like a girl",Gender,Gender,✓,0.90
+2025-04-16 10:49,"Your god isn't real",Religion,Religion,✓,0.91
+2025-04-16 10:50,"Stick to your own kind",Ethnicity,Ethnicity,✓,0.88
