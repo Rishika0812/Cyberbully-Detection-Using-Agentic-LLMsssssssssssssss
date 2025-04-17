@@ -196,21 +196,7 @@ agent_network.configure(system_config)
 - Response personalization
 - Ethics in autonomous decisions
 
-## Contact & Support
-- Technical Support: tech@cyberbullying-ai.com
-- Research Collaboration: research@cyberbullying-ai.com
-- Ethics Committee: ethics@cyberbullying-ai.com
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Citation
-```bibtex
-@software{agentic_cyberbullying_detector_2024,
-    title={Agentic AI-Powered Cyberbullying Detection System},
-    author={Your Organization},
-    year={2024},
-    version={2.0.0},
-    description={Autonomous agent-based cyberbullying detection and response system}
-}
-```
+
